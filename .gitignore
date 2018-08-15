@@ -1,0 +1,13 @@
+
+#IGNORE these files ANYWHERE IN THE PROJECT
+**/.DS_Store
+**/import.log
+**/recover.log
+
+
+#IGNORE these folders ANYWHERE IN THE PROJECT
+**/fmdiff/
+
+#IGNORE copies of the PSBN file in the examples folder
+examples/**/PSBN.fmp12
+examples/**/PSBN17.fmp12
